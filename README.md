@@ -83,4 +83,4 @@ Conclusion:
 
 The Dubai Real Estate Intelligence Dashboard combines data preparation, enriched metrics, and interactive visualizations to provide a comprehensive and actionable overview of Dubai’s real estate market.
 
-iMAGES= i[image](https://github.com/harshsutar2001/Dubai_Real_Estate_Intelligence.Dashboard/blob/main/Snapshot%20of%20Dashboards.png?raw=true)
+DashBoard i[Dashboard preview](https://github.com/harshsutar2001/Dubai_Real_Estate_Intelligence.Dashboard/blob/c608435f8fd713bb0b7b1b362d3970719bfdaf14/Snapshot%20of%20Dashboards.png)
